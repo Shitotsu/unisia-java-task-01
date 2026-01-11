@@ -31,6 +31,7 @@ Aplikasi ini merupakan program Java sederhana untuk mengelola dan menampilkan da
    java com.kampus.akademik.main.MainApp
 
 ## Contoh Output
+```
 === Data Mahasiswa ===
 NIM     : 2023001
 Nama    : Andi Pratama
@@ -40,3 +41,4 @@ Jurusan : Teknik Informatika
 NIDN       : 123456
 Nama       : Dr. Budi Santoso
 Mata Kuliah: Pemrograman Java
+```
