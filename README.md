@@ -20,15 +20,20 @@ Aplikasi ini merupakan program Java sederhana untuk mengelola dan menampilkan da
 ## Cara Compile dan Menjalankan Program
 
 1. Masuk ke direktori src
-   cd project-akademik/src
+```
+cd project-akademik/src
+```
 
 2. Compile seluruh file Java
+```
    javac com/kampus/akademik/model/*.java \
          com/kampus/akademik/service/*.java \
          com/kampus/akademik/main/*.java
-
+```
 3. Jalankan aplikasi
-   java com.kampus.akademik.main.MainApp
+```
+java com.kampus.akademik.main.MainApp
+```
 
 ## Contoh Output
 ```
